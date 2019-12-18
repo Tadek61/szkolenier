@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace lab05__operatoryarytmetyczne_cwiczenia
+{
+class Program
+{
+static void Main(string[] args)
+{
+//bmi waga dzielona na (wzrost do kwadratu)
+
+double waga;
+double wzrost;
+double wynik_bmi;
+
+Console.WriteLine("podaj wage:");
+Console.WriteLine("podaj wzrost:");
+waga = Console.Redline();
+wzrost = Console.ReadLine();
+
+waga = waga - 100;
+wyniki
+
+Console.ReadKey();
+}
+}
+}
